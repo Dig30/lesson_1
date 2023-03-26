@@ -1,0 +1,15 @@
+C:\Users\rya\Desktop\Lesson1\Task2\bin\Debug\net6.0\Task1.exe
+C:\Users\rya\Desktop\Lesson1\Task2\bin\Debug\net6.0\Task1.deps.json
+C:\Users\rya\Desktop\Lesson1\Task2\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\rya\Desktop\Lesson1\Task2\bin\Debug\net6.0\Task1.dll
+C:\Users\rya\Desktop\Lesson1\Task2\bin\Debug\net6.0\Task1.pdb
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.dll
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.pdb
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\rya\Desktop\Lesson1\Task2\obj\Debug\net6.0\ref\Task1.dll
